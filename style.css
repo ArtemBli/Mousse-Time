@@ -1,0 +1,57 @@
+.heading {
+    background-image: linear-gradient(to top, #FFE5CC, #FF9999);
+    top: 0px;
+    position:absolute;
+    height: 250px;
+    width: 100%;
+}
+
+.heading1 {
+    font-family: 'Delicious Handrawn', cursive;
+    font-size:130px;
+    text-align: center;
+}
+
+.navbar ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    font-family: 'Delicious Handrawn', cursive;
+    color: black;
+    text-decoration: none;
+    
+    margin: 30px;
+    font-size: 35px;
+}
+
+.navbar a:hover {
+    background-color: #FFE5CC;
+    border-radius: 15px;
+    font-style: italic;
+}
+
+.navbar li {
+    float: left;
+}
+
+
+
+.flavorHeadings {
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 38px;
+    display: inline-block;
+    margin: 80px;
+}
+
+.flavorImages {
+    height: 200px;
+    width: 200px;
+    margin: 80px;
+    border-radius: 100px;
+}
+
+
